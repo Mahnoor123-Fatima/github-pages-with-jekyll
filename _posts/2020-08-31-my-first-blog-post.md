@@ -1,3 +1,5 @@
+title: "My First Blog Post"
+date: 2020-08-31
 Hi there, I'm Mahnoor!
 
 Little bit about me
